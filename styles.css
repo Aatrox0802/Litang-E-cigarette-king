@@ -1,3 +1,9 @@
 .center-text {
     text-align: center;
 }
+
+.right-image {
+    position: absolute; /* 或者使用 'fixed' 根据需求 */
+    right: 0;           /* 定位到右侧 */
+    
+}
