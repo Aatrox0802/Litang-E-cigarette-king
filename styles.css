@@ -3,7 +3,10 @@
 }
 
 .right-image {
+    width: 50%;   /* 或者根据需要调整这个百分比 */
+    height: auto; /* 保持图片比例 */
     position: absolute; /* 或者使用 'fixed' 根据需求 */
-    right: 0;           /* 定位到右侧 */
-    
+    right: 0;     /* 定位到右侧 */
+    top: 50%;     /* 垂直居中，根据需要调整 */
+    transform: translateY(-50%);
 }
