@@ -3,7 +3,7 @@
 }
 
 .right-image {
-    width: 50%;   /* 或者根据需要调整这个百分比 */
+    width: 15%;   /* 或者根据需要调整这个百分比 */
     height: auto; /* 保持图片比例 */
     position: absolute; /* 或者使用 'fixed' 根据需求 */
     right: 0;     /* 定位到右侧 */
